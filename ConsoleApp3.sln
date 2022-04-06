@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{B6EE0A35-BBF9-4E33-946E-A3B368165EED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaperStrip", "PaperStrip\PaperStrip.csproj", "{B979E9E1-F461-4D47-BB17-6CFBEAF36833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CropRatio", "CropRatio\CropRatio.csproj", "{78632ADA-B987-4A0C-B232-549811664503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6EE0A35-BBF9-4E33-946E-A3B368165EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6EE0A35-BBF9-4E33-946E-A3B368165EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6EE0A35-BBF9-4E33-946E-A3B368165EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6EE0A35-BBF9-4E33-946E-A3B368165EED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B979E9E1-F461-4D47-BB17-6CFBEAF36833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B979E9E1-F461-4D47-BB17-6CFBEAF36833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B979E9E1-F461-4D47-BB17-6CFBEAF36833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B979E9E1-F461-4D47-BB17-6CFBEAF36833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78632ADA-B987-4A0C-B232-549811664503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78632ADA-B987-4A0C-B232-549811664503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78632ADA-B987-4A0C-B232-549811664503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78632ADA-B987-4A0C-B232-549811664503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {799EEF4C-2C7B-4B0F-9AEC-5EF7A89FC8F4}
+	EndGlobalSection
+EndGlobal

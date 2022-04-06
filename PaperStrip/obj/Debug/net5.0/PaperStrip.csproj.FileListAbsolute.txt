@@ -1,0 +1,16 @@
+C:\Users\Deyvi\source\repos\ConsoleApp3\PaperStrip\bin\Debug\net5.0\PaperStrip.exe
+C:\Users\Deyvi\source\repos\ConsoleApp3\PaperStrip\bin\Debug\net5.0\PaperStrip.deps.json
+C:\Users\Deyvi\source\repos\ConsoleApp3\PaperStrip\bin\Debug\net5.0\PaperStrip.runtimeconfig.json
+C:\Users\Deyvi\source\repos\ConsoleApp3\PaperStrip\bin\Debug\net5.0\PaperStrip.runtimeconfig.dev.json
+C:\Users\Deyvi\source\repos\ConsoleApp3\PaperStrip\bin\Debug\net5.0\PaperStrip.dll
+C:\Users\Deyvi\source\repos\ConsoleApp3\PaperStrip\bin\Debug\net5.0\ref\PaperStrip.dll
+C:\Users\Deyvi\source\repos\ConsoleApp3\PaperStrip\bin\Debug\net5.0\PaperStrip.pdb
+C:\Users\Deyvi\source\repos\ConsoleApp3\PaperStrip\obj\Debug\net5.0\PaperStrip.csproj.AssemblyReference.cache
+C:\Users\Deyvi\source\repos\ConsoleApp3\PaperStrip\obj\Debug\net5.0\PaperStrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyvi\source\repos\ConsoleApp3\PaperStrip\obj\Debug\net5.0\PaperStrip.AssemblyInfoInputs.cache
+C:\Users\Deyvi\source\repos\ConsoleApp3\PaperStrip\obj\Debug\net5.0\PaperStrip.AssemblyInfo.cs
+C:\Users\Deyvi\source\repos\ConsoleApp3\PaperStrip\obj\Debug\net5.0\PaperStrip.csproj.CoreCompileInputs.cache
+C:\Users\Deyvi\source\repos\ConsoleApp3\PaperStrip\obj\Debug\net5.0\PaperStrip.dll
+C:\Users\Deyvi\source\repos\ConsoleApp3\PaperStrip\obj\Debug\net5.0\ref\PaperStrip.dll
+C:\Users\Deyvi\source\repos\ConsoleApp3\PaperStrip\obj\Debug\net5.0\PaperStrip.pdb
+C:\Users\Deyvi\source\repos\ConsoleApp3\PaperStrip\obj\Debug\net5.0\PaperStrip.genruntimeconfig.cache
